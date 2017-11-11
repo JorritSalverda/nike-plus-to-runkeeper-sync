@@ -1,0 +1,4 @@
+apiVersion: v1
+description: The nike-plus-to-runkeeper-sync application exports runs from Nike+ and imports them into RunKeeper
+name: nike-plus-to-runkeeper-sync
+version: 0.1.0
